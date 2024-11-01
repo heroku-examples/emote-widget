@@ -72,9 +72,9 @@ Changing the emojis:
 
 1. Use a base64 converter on each new emoji. We used https://www.base64-image.de/
 
-1. Copy the css the converter outputs into `button.scss` and `animation.js` under the corresponding classes.
+1. Copy the css the converter outputs into `Button.scss` and `animation.js` under the corresponding classes.
 
 ## 🛠 Built With
 
--   [Lightning Web Components](https://lwc.dev) to build the Web Components
+-   [Vite](https://vite.dev) to build the Web Components
 -   [Anime.js](https://animejs.com) to animate the emojis
